@@ -1,3 +1,2 @@
-Codesys/*
-
-!Codesys/*.project
+MaterialiCorso/Codesys/**
+!MaterialiCorso/Codesys/**/*.project
